@@ -43,6 +43,13 @@ effective_version = "1.1.1.2"
 [channels.stable.plugins.Distance.changelogs."1.1.1.2"]
 time_released = 2024-04-15T12:35:16.469
 changelog = "Update for KR"
+[channels.stable.plugins.DeviceChangeFix]
+built_commit = "4c468b79156bd21ca147130410f90cc891a95ddd"
+time_built = 2024-04-15T13:55:09.136
+effective_version = "2.0.3.0"
+[channels.stable.plugins.DeviceChangeFix.changelogs."2.0.3.0"]
+time_released = 2024-04-15T13:55:09.136
+changelog = "Update for KR"
 [channels.testing-live.plugins.AetherCompass]
 built_commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
 time_built = 2023-01-18T16:19:10.716
