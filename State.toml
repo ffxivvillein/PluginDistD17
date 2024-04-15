@@ -1,13 +1,10 @@
-[channels.stable.plugins.AbilityAnts]
-built_commit = "13bfa83b91db39a136fa278da7e73201628a083b"
-time_built = 2023-10-17T19:44:55.688
-effective_version = "1.0.0.1"
-[channels.stable.plugins.AbilityAnts.changelogs."1.0.0.0"]
-time_released = 2023-01-11T18:28:58.641
-changelog = "ants in your pants!"
-[channels.stable.plugins.AbilityAnts.changelogs."1.0.0.1"]
-time_released = 2023-10-17T19:44:55.688
-changelog = "ants in your pants!"
+[channels.stable.plugins.Accountant]
+built_commit = "7cce41d485d4a95447691de437cd6723e619c817"
+time_built = 2024-04-15T16:10:43.441
+effective_version = "1.4.0.0"
+[channels.stable.plugins.Accountant.changelogs."1.4.0.0"]
+time_released = 2024-04-15T16:10:43.441
+changelog = "Update for KR"
 [channels.stable.plugins.EmoteLog]
 built_commit = "92028d445f734a51a3470339498d1687ee776327"
 time_built = 2024-04-14T13:55:04.187
