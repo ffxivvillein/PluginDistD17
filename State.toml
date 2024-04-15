@@ -36,6 +36,13 @@ effective_version = "3.3.2.3"
 [channels.stable.plugins.GatherBuddy.changelogs."3.3.2.3"]
 time_released = 2024-04-15T09:32:13.769
 changelog = "Update for KR"
+[channels.stable.plugins.Distance]
+built_commit = "80e541ecef38555b7a5d2860ffb797a4f98b3b7f"
+time_built = 2024-04-15T12:35:16.469
+effective_version = "1.1.1.2"
+[channels.stable.plugins.Distance.changelogs."1.1.1.2"]
+time_released = 2024-04-15T12:35:16.469
+changelog = "Update for KR"
 [channels.testing-live.plugins.AetherCompass]
 built_commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
 time_built = 2023-01-18T16:19:10.716
