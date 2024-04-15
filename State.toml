@@ -96,6 +96,20 @@ effective_version = "2.0.3.0"
 [channels.stable.plugins."Dalamud.RichPresence".changelogs."2.0.3.0"]
 time_released = 2024-04-15T19:01:10.792
 changelog = "Update for KR"
+[channels.stable.plugins.DamageInfoPlugin]
+built_commit = "e83a31ba1bd5cef7375517a51b2069c5c6ba9f4c"
+time_built = 2024-04-15T19:08:21.292
+effective_version = "2.3.0.3"
+[channels.stable.plugins.DamageInfoPlugin.changelogs."2.3.0.3"]
+time_released = 2024-04-15T19:08:21.292
+changelog = "Update for KR"
+[channels.stable.plugins.VFXEditor]
+built_commit = "acdaf8a9232a101fab87586f530ae13c5f79a359"
+time_built = 2024-04-15T19:08:43.668
+effective_version = "1.8.3.3"
+[channels.stable.plugins.VFXEditor.changelogs."1.8.3.3"]
+time_released = 2024-04-15T19:08:43.668
+changelog = "Update for KR"
 [channels.testing-live.plugins.AetherCompass]
 built_commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
 time_built = 2023-01-18T16:19:10.716
