@@ -75,6 +75,13 @@ effective_version = "4.0.6.1"
 [channels.stable.plugins.DailyDuty.changelogs."4.0.6.1"]
 time_released = 2024-04-15T18:50:13.989
 changelog = "Update for KR"
+[channels.stable.plugins."Dalamud.DiscordBridge"]
+built_commit = "a8a592c5eb591b6bce25fb8e0c2860ebb6696af1"
+time_built = 2024-04-15T18:55:36.099
+effective_version = "1.4.4.0"
+[channels.stable.plugins."Dalamud.DiscordBridge".changelogs."1.4.4.0"]
+time_released = 2024-04-15T18:55:36.099
+changelog = "Update for KR"
 [channels.testing-live.plugins.AetherCompass]
 built_commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
 time_built = 2023-01-18T16:19:10.716
