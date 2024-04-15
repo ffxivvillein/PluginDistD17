@@ -68,6 +68,13 @@ effective_version = "1.1.0.9"
 [channels.stable.plugins.BigPlayerDebuffs.changelogs."1.1.0.9"]
 time_released = 2024-04-15T17:49:34.149
 changelog = "Update for KR"
+[channels.stable.plugins.DailyDuty]
+built_commit = "3e8f0c8b4f41107ef65d43681634c876335822ec"
+time_built = 2024-04-15T18:50:13.989
+effective_version = "4.0.6.1"
+[channels.stable.plugins.DailyDuty.changelogs."4.0.6.1"]
+time_released = 2024-04-15T18:50:13.989
+changelog = "Update for KR"
 [channels.testing-live.plugins.AetherCompass]
 built_commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
 time_built = 2023-01-18T16:19:10.716
