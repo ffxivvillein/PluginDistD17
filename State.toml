@@ -5,190 +5,6 @@ effective_version = "1.4.0.0"
 [channels.stable.plugins.Accountant.changelogs."1.4.0.0"]
 time_released = 2024-04-15T16:10:43.441
 changelog = "Update for KR"
-[channels.stable.plugins.MPTickBar]
-built_commit = "8a8a23c08537ad24286ff353469f2047da2f3cd0"
-time_built = 2024-04-16T13:01:15.335
-effective_version = "1.4.1.8"
-[channels.stable.plugins.MPTickBar.changelogs."1.4.1.8"]
-time_released = 2024-04-16T13:01:15.335
-changelog = "- .NET 8.0.\n"
-[channels.stable.plugins.MiniMappingway]
-built_commit = "44baf6bb2b22c83345205aecc5a54c145fc86688"
-time_built = 2024-04-16T13:01:21.201
-effective_version = "1.0.0.5"
-[channels.stable.plugins.MiniMappingway.changelogs."1.0.0.5"]
-time_released = 2024-04-16T13:01:21.201
-changelog = "Update for 6.5"
-[channels.stable.plugins.Mappy]
-built_commit = "505e907864c90ea1a1ab58a4ae552e52e31960a7"
-time_built = 2024-04-16T13:01:28.213
-effective_version = "1.0.7.6"
-[channels.stable.plugins.Mappy.changelogs]
-[channels.stable.plugins.FPSPlugin]
-built_commit = "68b653e88f326a5836f8a1f702f184b22a2e2bd9"
-time_built = 2024-04-16T13:01:32.856
-effective_version = "1.6.1.0"
-[channels.stable.plugins.FPSPlugin.changelogs]
-[channels.stable.plugins.RezPls]
-built_commit = "bd9789603e19c1a20c1af7cfcf596319566c621f"
-time_built = 2024-04-16T13:01:37.537
-effective_version = "1.2.6.1"
-[channels.stable.plugins.RezPls.changelogs]
-[channels.stable.plugins.PatMe]
-built_commit = "46485b2768228b10963cd78373d61bedba5f5861"
-time_built = 2024-04-16T13:00:35.566
-effective_version = "1.9.0.1"
-[channels.stable.plugins.PatMe.changelogs]
-[channels.stable.plugins.TargetFurniture]
-built_commit = "1c4472446ca8b28139dabc6af969a4839b112143"
-time_built = 2024-04-16T13:01:42.244
-effective_version = "1.0.1.8"
-[channels.stable.plugins.TargetFurniture.changelogs]
-[channels.stable.plugins.MacroChain]
-built_commit = "4902a11bbd1389ee6ae097665fce33bea3d452ca"
-time_built = 2024-04-16T13:01:51.899
-effective_version = "2.1.1.0"
-[channels.stable.plugins.MacroChain.changelogs]
-[channels.stable.plugins.TeleporterPlugin]
-built_commit = "a6c5a754986a0a07613b5fc2dc0d17fb0ff63110"
-time_built = 2024-04-16T13:01:56.409
-effective_version = "2.0.2.3"
-[channels.stable.plugins.TeleporterPlugin.changelogs]
-[channels.stable.plugins.Glamaholic]
-built_commit = "2137e5e6a761f6d4a9552e4a0523632a122034d0"
-time_built = 2024-04-17T03:24:01.101
-effective_version = "1.9.14.0"
-[channels.stable.plugins.Glamaholic.changelogs."1.9.14.0"]
-time_released = 2024-04-17T03:24:01.101
-changelog = "API 9"
-[channels.stable.plugins.NeatNoter]
-built_commit = "f66b2d88efb4009072d2e3f02b78b98e0b74046d"
-time_built = 2024-04-16T13:00:52.690
-effective_version = "2.5.4.0"
-[channels.stable.plugins.NeatNoter.changelogs]
-[channels.stable.plugins.ZodiacBuddy]
-built_commit = "69323243bbd7a80031703e847ffc91999e9ae8b4"
-time_built = 2024-04-16T13:02:02.722
-effective_version = "0.2.0.0"
-[channels.stable.plugins.ZodiacBuddy.changelogs]
-[channels.stable.plugins.PixelPerfect]
-built_commit = "cce409091917cfb496d8657eefc4101558c5f01f"
-time_built = 2024-04-16T13:03:00.249
-effective_version = "3.0.4.0"
-[channels.stable.plugins.PixelPerfect.changelogs."3.0.4.0"]
-time_released = 2024-04-16T13:03:00.249
-changelog = "Added images, added dashed rings, API9 update."
-[channels.stable.plugins.XIVCombo]
-built_commit = "ae47de90f365d5b135f084fbb953696cea04cf6c"
-time_built = 2024-04-16T13:03:05.277
-effective_version = "1.7.25.0"
-[channels.stable.plugins.XIVCombo.changelogs."1.7.25.0"]
-time_released = 2024-04-16T13:03:05.277
-changelog = "6.5\n\t\t"
-[channels.stable.plugins.ItemVendorLocation]
-built_commit = "d016d62b0bc6e84d05fcaa7e019afb63cf1805e6"
-time_built = 2024-04-16T13:03:12.283
-effective_version = "2.5.0.0"
-[channels.stable.plugins.ItemVendorLocation.changelogs."2.5.0.0"]
-time_released = 2024-04-16T13:03:12.283
-changelog = "- Island Sanctuary fixes (Nuko)\n- Zadnor vendor fixes (Nuko)\n- Mysterious Map vendor fix (Nuko)\n- Special shop name fix (electr0sheep)\n"
-[channels.stable.plugins.PetScale]
-built_commit = "a7f76db65f5f7db11253d7ab0b94ad246b297ac9"
-time_built = 2024-04-16T13:03:17.543
-effective_version = "1.2.1.0"
-[channels.stable.plugins.PetScale.changelogs."1.2.1.0"]
-time_released = 2024-04-16T13:03:17.543
-changelog = "- Fixed broken filter\n- Possible fix for expanding dropdown\n"
-[channels.stable.plugins.orchestrion]
-built_commit = "6603800c918b4aeaa8d539354bd33684e3a144fd"
-time_built = 2024-04-16T13:01:47.428
-effective_version = "2.2.0.4"
-[channels.stable.plugins.orchestrion.changelogs]
-[channels.stable.plugins.InventoryTools]
-built_commit = "92dd06c33297f51a00f2aa59b6813da2955a029d"
-time_built = 2024-04-16T13:00:25.552
-effective_version = "1.6.2.9"
-[channels.stable.plugins.InventoryTools.changelogs."1.6.2.9"]
-time_released = 2024-04-16T13:00:25.552
-changelog = "**Fixes**\n- Stop some game calls being made in the plugin load\n- The armoire should now highlight again\n- The default highlighting colour for tabs was incorrect\n**Improvements**\n- Highlighting now uses the addon lifecycle service provided by Dalamud\n\n"
-[channels.stable.plugins.QoLBar]
-built_commit = "ace0951a27463326771d247b2e056e83f008c209"
-time_built = 2024-04-16T13:00:41.496
-effective_version = "2.3.2.2"
-[channels.stable.plugins.QoLBar.changelogs."2.3.2.2"]
-time_released = 2024-04-16T13:00:41.496
-changelog = "- Api9"
-[channels.stable.plugins.KingdomHeartsPlugin]
-built_commit = "2e926277dd3a6d5fc9736abb077ff6497eaacb1f"
-time_built = 2024-04-16T13:00:30.919
-effective_version = "1.0.7.0"
-[channels.stable.plugins.KingdomHeartsPlugin.changelogs."1.0.7.0"]
-time_released = 2024-04-16T13:00:30.919
-changelog = "Added scale feature for class icon.\nClass icons use HD texture now.\n"
-[channels.stable.plugins.DeathRecap]
-built_commit = "e5274e0ac645a8c0002736666c5c53fd5aa81932"
-time_built = 2024-04-17T02:58:06.242
-effective_version = "1.11.1.0"
-[channels.stable.plugins.DeathRecap.changelogs."1.11.1.0"]
-time_released = 2024-04-17T02:58:06.242
-changelog = "- Fix Well Fed & Medicated icon in death recap\n- Show healing from Kardia, Nascent Glint and similar abilties (by Cformaintain)\n"
-[channels.stable.plugins.Tilted]
-built_commit = "17ad950be799c3eee16bc7ccf4374e8928f2ac62"
-time_built = 2024-04-16T13:00:46.013
-effective_version = "3.5.0.0"
-[channels.stable.plugins.Tilted.changelogs]
-[channels.stable.plugins.SimpleTweaksPlugin]
-built_commit = "4963cc9820e7372e0706ba9053a63e21ba2c58e5"
-time_built = 2024-04-16T13:02:50.114
-effective_version = "1.9.7.2"
-[channels.stable.plugins.SimpleTweaksPlugin.changelogs]
-[channels.stable.plugins.Visibility]
-built_commit = "3715345ba5c258904bf06e86810bddc9b6d9b097"
-time_built = 2024-04-16T13:02:55.179
-effective_version = "1.1.6.0"
-[channels.stable.plugins.Visibility.changelogs."1.1.6.0"]
-time_released = 2024-04-16T13:02:55.179
-changelog = "[PR] API9"
-[channels.stable.plugins.Tourist]
-built_commit = "632471e529727611918515ddbc2244fb7f3fa818"
-time_built = 2024-04-17T03:51:24.934
-effective_version = "1.2.14"
-[channels.stable.plugins.Tourist.changelogs."1.2.14"]
-time_released = 2024-04-17T03:51:24.934
-changelog = "API 9"
-[channels.stable.plugins.ChatBubbles]
-built_commit = "1e154dc6a40ecdba5e6d04f1e75db80101ca9245"
-time_built = 2024-04-16T13:00:57.564
-effective_version = "2.1.5.0"
-[channels.stable.plugins.ChatBubbles.changelogs."2.1.5.0"]
-time_released = 2024-04-16T13:00:57.564
-changelog = "### Updated for 6.5 & API9 compatibility\nHaplo064 did all the work there, thanks Haplo "
-[channels.stable.plugins.TriadBuddy]
-built_commit = "9e1f11d11e5bba484e747780e7e8bfc8174d1237"
-time_built = 2024-04-17T03:52:44.694
-effective_version = "1.9.1.0"
-[channels.stable.plugins.TriadBuddy.changelogs]
-[channels.stable.plugins.PeepingTom]
-built_commit = "559ccae64edbc9ffac317e2ac2d05d023ef5dbae"
-time_built = 2024-04-17T03:27:36.880
-effective_version = "1.7.16"
-[channels.stable.plugins.PeepingTom.changelogs."1.7.16"]
-time_released = 2024-04-17T03:27:36.880
-changelog = "\\\n- API 9\n"
-[channels.stable.plugins.Hunty]
-built_commit = "88b3f987bd2e447c1aa55e830e889f3187e73850"
-time_built = 2024-04-14T15:13:55.591
-effective_version = "1.3.0.1"
-[channels.stable.plugins.Hunty.changelogs."1.3.0.1"]
-time_released = 2024-04-14T15:13:55.591
-changelog = "Update for KR"
-[channels.stable.plugins.DeviceChangeFix]
-built_commit = "4c468b79156bd21ca147130410f90cc891a95ddd"
-time_built = 2024-04-15T13:55:09.136
-effective_version = "2.0.3.0"
-[channels.stable.plugins.DeviceChangeFix.changelogs."2.0.3.0"]
-time_released = 2024-04-15T13:55:09.136
-changelog = "Update for KR"
 [channels.stable.plugins.ActionTimeline]
 built_commit = "9c3df56537445f62a6bd3bd205f195eea739ea61"
 time_built = 2024-04-15T16:23:36.944
@@ -352,11 +168,202 @@ effective_version = "1.6.0"
 [channels.stable.plugins.Browsingway.changelogs."1.6.0"]
 time_released = 2024-04-17T02:58:29.418
 changelog = "- Chromium 122.0.6261.112\n- Option to hide overlays out of combat (by electr0sheep)\n- .net 8 support\n- IPC refactoring\n"
+[channels.stable.plugins.DeviceChangeFix]
+built_commit = "4c468b79156bd21ca147130410f90cc891a95ddd"
+time_built = 2024-04-15T13:55:09.136
+effective_version = "2.0.3.0"
+[channels.stable.plugins.DeviceChangeFix.changelogs."2.0.3.0"]
+time_released = 2024-04-15T13:55:09.136
+changelog = "Update for KR"
+[channels.stable.plugins.Hunty]
+built_commit = "88b3f987bd2e447c1aa55e830e889f3187e73850"
+time_built = 2024-04-14T15:13:55.591
+effective_version = "1.3.0.1"
+[channels.stable.plugins.Hunty.changelogs."1.3.0.1"]
+time_released = 2024-04-14T15:13:55.591
+changelog = "Update for KR"
+[channels.stable.plugins.PeepingTom]
+built_commit = "559ccae64edbc9ffac317e2ac2d05d023ef5dbae"
+time_built = 2024-04-17T03:27:36.880
+effective_version = "1.7.16"
+[channels.stable.plugins.PeepingTom.changelogs."1.7.16"]
+time_released = 2024-04-17T03:27:36.880
+changelog = "\\\n- API 9\n"
+[channels.stable.plugins.TriadBuddy]
+built_commit = "9e1f11d11e5bba484e747780e7e8bfc8174d1237"
+time_built = 2024-04-17T03:52:44.694
+effective_version = "1.9.1.0"
+[channels.stable.plugins.TriadBuddy.changelogs]
+[channels.stable.plugins.MPTickBar]
+built_commit = "8a8a23c08537ad24286ff353469f2047da2f3cd0"
+time_built = 2024-04-16T13:01:15.335
+effective_version = "1.4.1.8"
+[channels.stable.plugins.MPTickBar.changelogs."1.4.1.8"]
+time_released = 2024-04-16T13:01:15.335
+changelog = "- .NET 8.0.\n"
+[channels.stable.plugins.MiniMappingway]
+built_commit = "44baf6bb2b22c83345205aecc5a54c145fc86688"
+time_built = 2024-04-16T13:01:21.201
+effective_version = "1.0.0.5"
+[channels.stable.plugins.MiniMappingway.changelogs."1.0.0.5"]
+time_released = 2024-04-16T13:01:21.201
+changelog = "Update for 6.5"
+[channels.stable.plugins.Mappy]
+built_commit = "505e907864c90ea1a1ab58a4ae552e52e31960a7"
+time_built = 2024-04-16T13:01:28.213
+effective_version = "1.0.7.6"
+[channels.stable.plugins.Mappy.changelogs]
+[channels.stable.plugins.FPSPlugin]
+built_commit = "68b653e88f326a5836f8a1f702f184b22a2e2bd9"
+time_built = 2024-04-16T13:01:32.856
+effective_version = "1.6.1.0"
+[channels.stable.plugins.FPSPlugin.changelogs]
+[channels.stable.plugins.RezPls]
+built_commit = "bd9789603e19c1a20c1af7cfcf596319566c621f"
+time_built = 2024-04-16T13:01:37.537
+effective_version = "1.2.6.1"
+[channels.stable.plugins.RezPls.changelogs]
+[channels.stable.plugins.PatMe]
+built_commit = "46485b2768228b10963cd78373d61bedba5f5861"
+time_built = 2024-04-16T13:00:35.566
+effective_version = "1.9.0.1"
+[channels.stable.plugins.PatMe.changelogs]
+[channels.stable.plugins.TargetFurniture]
+built_commit = "1c4472446ca8b28139dabc6af969a4839b112143"
+time_built = 2024-04-16T13:01:42.244
+effective_version = "1.0.1.8"
+[channels.stable.plugins.TargetFurniture.changelogs]
+[channels.stable.plugins.MacroChain]
+built_commit = "4902a11bbd1389ee6ae097665fce33bea3d452ca"
+time_built = 2024-04-16T13:01:51.899
+effective_version = "2.1.1.0"
+[channels.stable.plugins.MacroChain.changelogs]
+[channels.stable.plugins.TeleporterPlugin]
+built_commit = "a6c5a754986a0a07613b5fc2dc0d17fb0ff63110"
+time_built = 2024-04-16T13:01:56.409
+effective_version = "2.0.2.3"
+[channels.stable.plugins.TeleporterPlugin.changelogs]
+[channels.stable.plugins.Glamaholic]
+built_commit = "2137e5e6a761f6d4a9552e4a0523632a122034d0"
+time_built = 2024-04-17T03:24:01.101
+effective_version = "1.9.14.0"
+[channels.stable.plugins.Glamaholic.changelogs."1.9.14.0"]
+time_released = 2024-04-17T03:24:01.101
+changelog = "API 9"
+[channels.stable.plugins.NeatNoter]
+built_commit = "f66b2d88efb4009072d2e3f02b78b98e0b74046d"
+time_built = 2024-04-16T13:00:52.690
+effective_version = "2.5.4.0"
+[channels.stable.plugins.NeatNoter.changelogs]
+[channels.stable.plugins.ZodiacBuddy]
+built_commit = "69323243bbd7a80031703e847ffc91999e9ae8b4"
+time_built = 2024-04-16T13:02:02.722
+effective_version = "0.2.0.0"
+[channels.stable.plugins.ZodiacBuddy.changelogs]
 [channels.stable.plugins.HotbarUnlimited]
 built_commit = "9ca4bd8354198b0aad6cb4f4e330fb4147fb0cf1"
 time_built = 2024-04-21T12:10:55.580
 effective_version = "1.0.2.2"
 [channels.stable.plugins.HotbarUnlimited.changelogs]
+[channels.stable.plugins.PixelPerfect]
+built_commit = "cce409091917cfb496d8657eefc4101558c5f01f"
+time_built = 2024-04-16T13:03:00.249
+effective_version = "3.0.4.0"
+[channels.stable.plugins.PixelPerfect.changelogs."3.0.4.0"]
+time_released = 2024-04-16T13:03:00.249
+changelog = "Added images, added dashed rings, API9 update."
+[channels.stable.plugins.ItemVendorLocation]
+built_commit = "d016d62b0bc6e84d05fcaa7e019afb63cf1805e6"
+time_built = 2024-04-16T13:03:12.283
+effective_version = "2.5.0.0"
+[channels.stable.plugins.ItemVendorLocation.changelogs."2.5.0.0"]
+time_released = 2024-04-16T13:03:12.283
+changelog = "- Island Sanctuary fixes (Nuko)\n- Zadnor vendor fixes (Nuko)\n- Mysterious Map vendor fix (Nuko)\n- Special shop name fix (electr0sheep)\n"
+[channels.stable.plugins.PetScale]
+built_commit = "a7f76db65f5f7db11253d7ab0b94ad246b297ac9"
+time_built = 2024-04-16T13:03:17.543
+effective_version = "1.2.1.0"
+[channels.stable.plugins.PetScale.changelogs."1.2.1.0"]
+time_released = 2024-04-16T13:03:17.543
+changelog = "- Fixed broken filter\n- Possible fix for expanding dropdown\n"
+[channels.stable.plugins.orchestrion]
+built_commit = "6603800c918b4aeaa8d539354bd33684e3a144fd"
+time_built = 2024-04-16T13:01:47.428
+effective_version = "2.2.0.4"
+[channels.stable.plugins.orchestrion.changelogs]
+[channels.stable.plugins.InventoryTools]
+built_commit = "92dd06c33297f51a00f2aa59b6813da2955a029d"
+time_built = 2024-04-16T13:00:25.552
+effective_version = "1.6.2.9"
+[channels.stable.plugins.InventoryTools.changelogs."1.6.2.9"]
+time_released = 2024-04-16T13:00:25.552
+changelog = "**Fixes**\n- Stop some game calls being made in the plugin load\n- The armoire should now highlight again\n- The default highlighting colour for tabs was incorrect\n**Improvements**\n- Highlighting now uses the addon lifecycle service provided by Dalamud\n\n"
+[channels.stable.plugins.QoLBar]
+built_commit = "ace0951a27463326771d247b2e056e83f008c209"
+time_built = 2024-04-16T13:00:41.496
+effective_version = "2.3.2.2"
+[channels.stable.plugins.QoLBar.changelogs."2.3.2.2"]
+time_released = 2024-04-16T13:00:41.496
+changelog = "- Api9"
+[channels.stable.plugins.KingdomHeartsPlugin]
+built_commit = "2e926277dd3a6d5fc9736abb077ff6497eaacb1f"
+time_built = 2024-04-16T13:00:30.919
+effective_version = "1.0.7.0"
+[channels.stable.plugins.KingdomHeartsPlugin.changelogs."1.0.7.0"]
+time_released = 2024-04-16T13:00:30.919
+changelog = "Added scale feature for class icon.\nClass icons use HD texture now.\n"
+[channels.stable.plugins.DeathRecap]
+built_commit = "e5274e0ac645a8c0002736666c5c53fd5aa81932"
+time_built = 2024-04-17T02:58:06.242
+effective_version = "1.11.1.0"
+[channels.stable.plugins.DeathRecap.changelogs."1.11.1.0"]
+time_released = 2024-04-17T02:58:06.242
+changelog = "- Fix Well Fed & Medicated icon in death recap\n- Show healing from Kardia, Nascent Glint and similar abilties (by Cformaintain)\n"
+[channels.stable.plugins.Tilted]
+built_commit = "17ad950be799c3eee16bc7ccf4374e8928f2ac62"
+time_built = 2024-04-16T13:00:46.013
+effective_version = "3.5.0.0"
+[channels.stable.plugins.Tilted.changelogs]
+[channels.stable.plugins.SimpleTweaksPlugin]
+built_commit = "4963cc9820e7372e0706ba9053a63e21ba2c58e5"
+time_built = 2024-04-16T13:02:50.114
+effective_version = "1.9.7.2"
+[channels.stable.plugins.SimpleTweaksPlugin.changelogs]
+[channels.stable.plugins.Visibility]
+built_commit = "3715345ba5c258904bf06e86810bddc9b6d9b097"
+time_built = 2024-04-16T13:02:55.179
+effective_version = "1.1.6.0"
+[channels.stable.plugins.Visibility.changelogs."1.1.6.0"]
+time_released = 2024-04-16T13:02:55.179
+changelog = "[PR] API9"
+[channels.stable.plugins.Tourist]
+built_commit = "632471e529727611918515ddbc2244fb7f3fa818"
+time_built = 2024-04-17T03:51:24.934
+effective_version = "1.2.14"
+[channels.stable.plugins.Tourist.changelogs."1.2.14"]
+time_released = 2024-04-17T03:51:24.934
+changelog = "API 9"
+[channels.stable.plugins.ChatBubbles]
+built_commit = "1e154dc6a40ecdba5e6d04f1e75db80101ca9245"
+time_built = 2024-04-16T13:00:57.564
+effective_version = "2.1.5.0"
+[channels.stable.plugins.ChatBubbles.changelogs."2.1.5.0"]
+time_released = 2024-04-16T13:00:57.564
+changelog = "### Updated for 6.5 & API9 compatibility\nHaplo064 did all the work there, thanks Haplo "
+[channels.stable.plugins.XIVCombo]
+built_commit = "ae47de90f365d5b135f084fbb953696cea04cf6c"
+time_built = 2024-04-16T13:03:05.277
+effective_version = "1.7.25.0"
+[channels.stable.plugins.XIVCombo.changelogs."1.7.25.0"]
+time_released = 2024-04-16T13:03:05.277
+changelog = "6.5\n\t\t"
+[channels.stable.plugins.UsedName]
+built_commit = "453adf92e12431b28be151080334e4365da2193d"
+time_built = 2024-04-21T12:38:11.278
+effective_version = "0.8.4.0"
+[channels.stable.plugins.UsedName.changelogs."0.8.4.0"]
+time_released = 2024-04-21T12:38:11.278
+changelog = "- Support API9\n"
 [channels.testing-live.plugins.AetherCompass]
 built_commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
 time_built = 2023-01-18T16:19:10.716
