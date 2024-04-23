@@ -5,6 +5,202 @@ effective_version = "1.4.0.0"
 [channels.stable.plugins.Accountant.changelogs."1.4.0.0"]
 time_released = 2024-04-15T16:10:43.441
 changelog = "Update for KR"
+[channels.stable.plugins.PriceInsight]
+built_commit = "cebc13328364c95a3ef5505305906f273326027f"
+time_built = 2024-04-16T08:18:25.428
+effective_version = "2.8.0.0"
+[channels.stable.plugins.PriceInsight.changelogs."2.8.0.0"]
+time_released = 2024-04-16T08:18:25.428
+changelog = "- Rewrote caching logic to better avoid unnecessary requests to universalis\n- Improved tooltip display when \"Always display NQ and HQ\" is turned off\n"
+[channels.stable.plugins.BigPlayerDebuffs]
+built_commit = "e80426ed7afae1e147500acdc1be2fde2fe1b2e3"
+time_built = 2024-04-15T17:49:34.149
+effective_version = "1.1.0.9"
+[channels.stable.plugins.BigPlayerDebuffs.changelogs."1.1.0.9"]
+time_released = 2024-04-15T17:49:34.149
+changelog = "Update for KR"
+[channels.stable.plugins.DailyDuty]
+built_commit = "3e8f0c8b4f41107ef65d43681634c876335822ec"
+time_built = 2024-04-15T18:50:13.989
+effective_version = "4.0.6.1"
+[channels.stable.plugins.DailyDuty.changelogs."4.0.6.1"]
+time_released = 2024-04-15T18:50:13.989
+changelog = "Update for KR"
+[channels.stable.plugins."Dalamud.DiscordBridge"]
+built_commit = "a8a592c5eb591b6bce25fb8e0c2860ebb6696af1"
+time_built = 2024-04-15T18:55:36.099
+effective_version = "1.4.4.0"
+[channels.stable.plugins."Dalamud.DiscordBridge".changelogs."1.4.4.0"]
+time_released = 2024-04-15T18:55:36.099
+changelog = "Update for KR"
+[channels.stable.plugins.ReadyCheckHelper]
+built_commit = "d660556de3b8c86a977a236c57fa24dbd69d4621"
+time_built = 2024-04-16T13:16:08.544
+effective_version = "1.0.4.4"
+[channels.stable.plugins.ReadyCheckHelper.changelogs]
+[channels.stable.plugins."Dalamud.FullscreenCutscenes"]
+built_commit = "6191823fd2d5666c1f2d5a94a5ee245c5b88f144"
+time_built = 2024-04-15T19:01:04.720
+effective_version = "1.0.0.2"
+[channels.stable.plugins."Dalamud.FullscreenCutscenes".changelogs."1.0.0.2"]
+time_released = 2024-04-15T19:01:04.720
+changelog = "Update for KR"
+[channels.stable.plugins.ChillFrames]
+built_commit = "e7cb4d212de16978dbc7a9a9f5ac345b6950dbdd"
+time_built = 2024-04-14T16:15:56.038
+effective_version = "2.1.1.3"
+[channels.stable.plugins.ChillFrames.changelogs."2.1.1.3"]
+time_released = 2024-04-14T16:15:56.038
+changelog = "Update for KR"
+[channels.stable.plugins.DamageInfoPlugin]
+built_commit = "e83a31ba1bd5cef7375517a51b2069c5c6ba9f4c"
+time_built = 2024-04-15T19:08:21.292
+effective_version = "2.3.0.3"
+[channels.stable.plugins.DamageInfoPlugin.changelogs."2.3.0.3"]
+time_released = 2024-04-15T19:08:21.292
+changelog = "Update for KR"
+[channels.stable.plugins.JobBars]
+built_commit = "7dcb7096f074db2ff1882a46f9046510e2768626"
+time_built = 2024-04-16T12:59:21.777
+effective_version = "1.2.5.0"
+[channels.stable.plugins.JobBars.changelogs]
+[channels.stable.plugins.Distance]
+built_commit = "80e541ecef38555b7a5d2860ffb797a4f98b3b7f"
+time_built = 2024-04-15T12:35:16.469
+effective_version = "1.1.1.2"
+[channels.stable.plugins.Distance.changelogs."1.1.1.2"]
+time_released = 2024-04-15T12:35:16.469
+changelog = "Update for KR"
+[channels.stable.plugins.FauxHollowsSolver]
+built_commit = "5a26a6e619ed58e3658a0db541a2471e2180eb02"
+time_built = 2024-04-16T08:04:09.730
+effective_version = "1.3.0.0"
+[channels.stable.plugins.FauxHollowsSolver.changelogs]
+[channels.stable.plugins.PeepingTom]
+built_commit = "559ccae64edbc9ffac317e2ac2d05d023ef5dbae"
+time_built = 2024-04-17T03:27:36.880
+effective_version = "1.7.16"
+[channels.stable.plugins.PeepingTom.changelogs."1.7.16"]
+time_released = 2024-04-17T03:27:36.880
+changelog = "\\\n- API 9\n"
+[channels.stable.plugins.ActionTimeline]
+built_commit = "9c3df56537445f62a6bd3bd205f195eea739ea61"
+time_built = 2024-04-15T16:23:36.944
+effective_version = "1.3.0.1"
+[channels.stable.plugins.ActionTimeline.changelogs."1.3.0.1"]
+time_released = 2024-04-15T16:23:36.944
+changelog = "Update for KR"
+[channels.stable.plugins.MiniCactpotSolver]
+built_commit = "0764fcc25b49fff26da45638640f46c33d9ed50c"
+time_built = 2024-04-16T08:04:32.237
+effective_version = "1.3.0.3"
+[channels.stable.plugins.MiniCactpotSolver.changelogs]
+[channels.stable.plugins.NamePlateDebuffs]
+built_commit = "a9ccada3992269c48c3ae139fb2c2b526cfc5a46"
+time_built = 2024-04-16T13:03:22.070
+effective_version = "1.1.0.1"
+[channels.stable.plugins.NamePlateDebuffs.changelogs."1.1.0.1"]
+time_released = 2024-04-16T13:03:22.070
+changelog = "Nameplate Debuffs 1.1.0.0\n- Add option to show debuffs on player nameplates\n- Added new chat commands for toggling visibility\n"
+[channels.stable.plugins.EmoteLog]
+built_commit = "92028d445f734a51a3470339498d1687ee776327"
+time_built = 2024-04-14T13:55:04.187
+effective_version = "1.1.2.0"
+[channels.stable.plugins.EmoteLog.changelogs."1.1.2.0"]
+time_released = 2024-04-14T13:55:04.187
+changelog = "Track who used what emotes on you."
+[channels.stable.plugins."Dalamud.RichPresence"]
+built_commit = "6abfdd7a8973061162fb607e202649dd3e1f2c1c"
+time_built = 2024-04-15T19:01:10.792
+effective_version = "2.0.3.0"
+[channels.stable.plugins."Dalamud.RichPresence".changelogs."2.0.3.0"]
+time_released = 2024-04-15T19:01:10.792
+changelog = "Update for KR"
+[channels.stable.plugins.WhatDidYouSay]
+built_commit = "0375bc62b5b29999ed5c124bd712818459a385f0"
+time_built = 2024-04-16T16:09:33.151
+effective_version = "1.0.2.2"
+[channels.stable.plugins.WhatDidYouSay.changelogs."1.0.2.2"]
+time_released = 2024-04-16T16:09:33.151
+changelog = "- Updated for Dalamud API 9.\n- Minor improvement to settings window.\n- Minor code cleanup.\n"
+[channels.stable.plugins.VFXEditor]
+built_commit = "acdaf8a9232a101fab87586f530ae13c5f79a359"
+time_built = 2024-04-15T19:08:43.668
+effective_version = "1.8.3.3"
+[channels.stable.plugins.VFXEditor.changelogs."1.8.3.3"]
+time_released = 2024-04-15T19:08:43.668
+changelog = "Update for KR"
+[channels.stable.plugins.SubmarineTracker]
+built_commit = "5d6c243c0a12061969ad3351ca5985e032b6b3bf"
+time_built = 2024-04-16T13:03:30.068
+effective_version = "1.8.4.1"
+[channels.stable.plugins.SubmarineTracker.changelogs]
+[channels.stable.plugins.GatherBuddy]
+built_commit = "757f0a3bbdf81bc7b952bf10a2201a3bb0535fc0"
+time_built = 2024-04-16T13:01:10.431
+effective_version = "3.3.2.3"
+[channels.stable.plugins.GatherBuddy.changelogs."3.3.2.3"]
+time_released = 2024-04-15T09:32:13.769
+changelog = "Update for KR"
+[channels.stable.plugins.EngageTimer]
+built_commit = "f5bfa07a4ca0be31623ad687926124a50251d019"
+time_built = 2024-04-16T08:04:16.639
+effective_version = "2.3.2.0"
+[channels.stable.plugins.EngageTimer.changelogs."2.3.2.0"]
+time_released = 2024-04-16T08:04:16.639
+changelog = "- Add an option to draw the custom 0-5 numbers without hiding the original countdown\n- Make animation match vanilla a bit better\n"
+[channels.stable.plugins.FantasyPlayer]
+built_commit = "d08a6911953037f7fefe3d113993d2da54b9627f"
+time_built = 2024-04-16T08:04:27.709
+effective_version = "2.2.0.2"
+[channels.stable.plugins.FantasyPlayer.changelogs."2.2.0.2"]
+time_released = 2024-04-16T08:04:27.709
+changelog = "**Bug Fixes**\n- Fixes so that the plugin disposes properly\n- The browser should now open using the same method Dalamud uses for logging in, Linux/Mac OSX users see if you can login now\n"
+[channels.stable.plugins.Browsingway]
+built_commit = "45b2380ff73264ac5aa655448db95cb528e45858"
+time_built = 2024-04-17T02:58:29.418
+effective_version = "1.6.0"
+[channels.stable.plugins.Browsingway.changelogs."1.6.0"]
+time_released = 2024-04-17T02:58:29.418
+changelog = "- Chromium 122.0.6261.112\n- Option to hide overlays out of combat (by electr0sheep)\n- .net 8 support\n- IPC refactoring\n"
+[channels.stable.plugins.DeviceChangeFix]
+built_commit = "4c468b79156bd21ca147130410f90cc891a95ddd"
+time_built = 2024-04-15T13:55:09.136
+effective_version = "2.0.3.0"
+[channels.stable.plugins.DeviceChangeFix.changelogs."2.0.3.0"]
+time_released = 2024-04-15T13:55:09.136
+changelog = "Update for KR"
+[channels.stable.plugins.EnmityHp]
+built_commit = "2c495026819e3411069eb94b0ed0dd2a3a58eae5"
+time_built = 2024-04-16T08:04:36.570
+effective_version = "2.0.1.1"
+[channels.stable.plugins.EnmityHp.changelogs]
+[channels.stable.plugins.EnemyListDebuffs]
+built_commit = "77a9c25fa0f516281fbc265cfb97157ef7d7aeb3"
+time_built = 2024-04-16T08:04:40.912
+effective_version = "0.3.9.0"
+[channels.stable.plugins.EnemyListDebuffs.changelogs."0.3.9.0"]
+time_released = 2024-04-16T08:04:40.912
+changelog = "Update for KR"
+[channels.stable.plugins.Hunty]
+built_commit = "88b3f987bd2e447c1aa55e830e889f3187e73850"
+time_built = 2024-04-14T15:13:55.591
+effective_version = "1.3.0.1"
+[channels.stable.plugins.Hunty.changelogs."1.3.0.1"]
+time_released = 2024-04-14T15:13:55.591
+changelog = "Update for KR"
+[channels.stable.plugins.TriadBuddy]
+built_commit = "9e1f11d11e5bba484e747780e7e8bfc8174d1237"
+time_built = 2024-04-17T03:52:44.694
+effective_version = "1.9.1.0"
+[channels.stable.plugins.TriadBuddy.changelogs]
+[channels.stable.plugins.UsedName]
+built_commit = "453adf92e12431b28be151080334e4365da2193d"
+time_built = 2024-04-21T12:38:11.278
+effective_version = "0.8.4.0"
+[channels.stable.plugins.UsedName.changelogs."0.8.4.0"]
+time_released = 2024-04-21T12:38:11.278
+changelog = "- Support API9\n"
 [channels.stable.plugins.MiniMappingway]
 built_commit = "44baf6bb2b22c83345205aecc5a54c145fc86688"
 time_built = 2024-04-16T13:01:21.201
@@ -168,202 +364,6 @@ effective_version = "2.5.0.0"
 [channels.stable.plugins.ItemVendorLocation.changelogs."2.5.0.0"]
 time_released = 2024-04-16T13:03:12.283
 changelog = "- Island Sanctuary fixes (Nuko)\n- Zadnor vendor fixes (Nuko)\n- Mysterious Map vendor fix (Nuko)\n- Special shop name fix (electr0sheep)\n"
-[channels.stable.plugins.UsedName]
-built_commit = "453adf92e12431b28be151080334e4365da2193d"
-time_built = 2024-04-21T12:38:11.278
-effective_version = "0.8.4.0"
-[channels.stable.plugins.UsedName.changelogs."0.8.4.0"]
-time_released = 2024-04-21T12:38:11.278
-changelog = "- Support API9\n"
-[channels.stable.plugins.TriadBuddy]
-built_commit = "9e1f11d11e5bba484e747780e7e8bfc8174d1237"
-time_built = 2024-04-17T03:52:44.694
-effective_version = "1.9.1.0"
-[channels.stable.plugins.TriadBuddy.changelogs]
-[channels.stable.plugins.Hunty]
-built_commit = "88b3f987bd2e447c1aa55e830e889f3187e73850"
-time_built = 2024-04-14T15:13:55.591
-effective_version = "1.3.0.1"
-[channels.stable.plugins.Hunty.changelogs."1.3.0.1"]
-time_released = 2024-04-14T15:13:55.591
-changelog = "Update for KR"
-[channels.stable.plugins.ActionTimeline]
-built_commit = "9c3df56537445f62a6bd3bd205f195eea739ea61"
-time_built = 2024-04-15T16:23:36.944
-effective_version = "1.3.0.1"
-[channels.stable.plugins.ActionTimeline.changelogs."1.3.0.1"]
-time_released = 2024-04-15T16:23:36.944
-changelog = "Update for KR"
-[channels.stable.plugins.PriceInsight]
-built_commit = "cebc13328364c95a3ef5505305906f273326027f"
-time_built = 2024-04-16T08:18:25.428
-effective_version = "2.8.0.0"
-[channels.stable.plugins.PriceInsight.changelogs."2.8.0.0"]
-time_released = 2024-04-16T08:18:25.428
-changelog = "- Rewrote caching logic to better avoid unnecessary requests to universalis\n- Improved tooltip display when \"Always display NQ and HQ\" is turned off\n"
-[channels.stable.plugins.BigPlayerDebuffs]
-built_commit = "e80426ed7afae1e147500acdc1be2fde2fe1b2e3"
-time_built = 2024-04-15T17:49:34.149
-effective_version = "1.1.0.9"
-[channels.stable.plugins.BigPlayerDebuffs.changelogs."1.1.0.9"]
-time_released = 2024-04-15T17:49:34.149
-changelog = "Update for KR"
-[channels.stable.plugins.DailyDuty]
-built_commit = "3e8f0c8b4f41107ef65d43681634c876335822ec"
-time_built = 2024-04-15T18:50:13.989
-effective_version = "4.0.6.1"
-[channels.stable.plugins.DailyDuty.changelogs."4.0.6.1"]
-time_released = 2024-04-15T18:50:13.989
-changelog = "Update for KR"
-[channels.stable.plugins."Dalamud.DiscordBridge"]
-built_commit = "a8a592c5eb591b6bce25fb8e0c2860ebb6696af1"
-time_built = 2024-04-15T18:55:36.099
-effective_version = "1.4.4.0"
-[channels.stable.plugins."Dalamud.DiscordBridge".changelogs."1.4.4.0"]
-time_released = 2024-04-15T18:55:36.099
-changelog = "Update for KR"
-[channels.stable.plugins.ReadyCheckHelper]
-built_commit = "d660556de3b8c86a977a236c57fa24dbd69d4621"
-time_built = 2024-04-16T13:16:08.544
-effective_version = "1.0.4.4"
-[channels.stable.plugins.ReadyCheckHelper.changelogs]
-[channels.stable.plugins."Dalamud.FullscreenCutscenes"]
-built_commit = "6191823fd2d5666c1f2d5a94a5ee245c5b88f144"
-time_built = 2024-04-15T19:01:04.720
-effective_version = "1.0.0.2"
-[channels.stable.plugins."Dalamud.FullscreenCutscenes".changelogs."1.0.0.2"]
-time_released = 2024-04-15T19:01:04.720
-changelog = "Update for KR"
-[channels.stable.plugins.ChillFrames]
-built_commit = "e7cb4d212de16978dbc7a9a9f5ac345b6950dbdd"
-time_built = 2024-04-14T16:15:56.038
-effective_version = "2.1.1.3"
-[channels.stable.plugins.ChillFrames.changelogs."2.1.1.3"]
-time_released = 2024-04-14T16:15:56.038
-changelog = "Update for KR"
-[channels.stable.plugins.DamageInfoPlugin]
-built_commit = "e83a31ba1bd5cef7375517a51b2069c5c6ba9f4c"
-time_built = 2024-04-15T19:08:21.292
-effective_version = "2.3.0.3"
-[channels.stable.plugins.DamageInfoPlugin.changelogs."2.3.0.3"]
-time_released = 2024-04-15T19:08:21.292
-changelog = "Update for KR"
-[channels.stable.plugins.JobBars]
-built_commit = "7dcb7096f074db2ff1882a46f9046510e2768626"
-time_built = 2024-04-16T12:59:21.777
-effective_version = "1.2.5.0"
-[channels.stable.plugins.JobBars.changelogs]
-[channels.stable.plugins.Distance]
-built_commit = "80e541ecef38555b7a5d2860ffb797a4f98b3b7f"
-time_built = 2024-04-15T12:35:16.469
-effective_version = "1.1.1.2"
-[channels.stable.plugins.Distance.changelogs."1.1.1.2"]
-time_released = 2024-04-15T12:35:16.469
-changelog = "Update for KR"
-[channels.stable.plugins.FauxHollowsSolver]
-built_commit = "5a26a6e619ed58e3658a0db541a2471e2180eb02"
-time_built = 2024-04-16T08:04:09.730
-effective_version = "1.3.0.0"
-[channels.stable.plugins.FauxHollowsSolver.changelogs]
-[channels.stable.plugins.PeepingTom]
-built_commit = "559ccae64edbc9ffac317e2ac2d05d023ef5dbae"
-time_built = 2024-04-17T03:27:36.880
-effective_version = "1.7.16"
-[channels.stable.plugins.PeepingTom.changelogs."1.7.16"]
-time_released = 2024-04-17T03:27:36.880
-changelog = "\\\n- API 9\n"
-[channels.stable.plugins.MiniCactpotSolver]
-built_commit = "0764fcc25b49fff26da45638640f46c33d9ed50c"
-time_built = 2024-04-16T08:04:32.237
-effective_version = "1.3.0.3"
-[channels.stable.plugins.MiniCactpotSolver.changelogs]
-[channels.stable.plugins.EnemyListDebuffs]
-built_commit = "77a9c25fa0f516281fbc265cfb97157ef7d7aeb3"
-time_built = 2024-04-16T08:04:40.912
-effective_version = "0.3.9.0"
-[channels.stable.plugins.EnemyListDebuffs.changelogs."0.3.9.0"]
-time_released = 2024-04-16T08:04:40.912
-changelog = "Update for KR"
-[channels.stable.plugins.NamePlateDebuffs]
-built_commit = "a9ccada3992269c48c3ae139fb2c2b526cfc5a46"
-time_built = 2024-04-16T13:03:22.070
-effective_version = "1.1.0.1"
-[channels.stable.plugins.NamePlateDebuffs.changelogs."1.1.0.1"]
-time_released = 2024-04-16T13:03:22.070
-changelog = "Nameplate Debuffs 1.1.0.0\n- Add option to show debuffs on player nameplates\n- Added new chat commands for toggling visibility\n"
-[channels.stable.plugins.EmoteLog]
-built_commit = "92028d445f734a51a3470339498d1687ee776327"
-time_built = 2024-04-14T13:55:04.187
-effective_version = "1.1.2.0"
-[channels.stable.plugins.EmoteLog.changelogs."1.1.2.0"]
-time_released = 2024-04-14T13:55:04.187
-changelog = "Track who used what emotes on you."
-[channels.stable.plugins."Dalamud.RichPresence"]
-built_commit = "6abfdd7a8973061162fb607e202649dd3e1f2c1c"
-time_built = 2024-04-15T19:01:10.792
-effective_version = "2.0.3.0"
-[channels.stable.plugins."Dalamud.RichPresence".changelogs."2.0.3.0"]
-time_released = 2024-04-15T19:01:10.792
-changelog = "Update for KR"
-[channels.stable.plugins.WhatDidYouSay]
-built_commit = "0375bc62b5b29999ed5c124bd712818459a385f0"
-time_built = 2024-04-16T16:09:33.151
-effective_version = "1.0.2.2"
-[channels.stable.plugins.WhatDidYouSay.changelogs."1.0.2.2"]
-time_released = 2024-04-16T16:09:33.151
-changelog = "- Updated for Dalamud API 9.\n- Minor improvement to settings window.\n- Minor code cleanup.\n"
-[channels.stable.plugins.VFXEditor]
-built_commit = "acdaf8a9232a101fab87586f530ae13c5f79a359"
-time_built = 2024-04-15T19:08:43.668
-effective_version = "1.8.3.3"
-[channels.stable.plugins.VFXEditor.changelogs."1.8.3.3"]
-time_released = 2024-04-15T19:08:43.668
-changelog = "Update for KR"
-[channels.stable.plugins.SubmarineTracker]
-built_commit = "5d6c243c0a12061969ad3351ca5985e032b6b3bf"
-time_built = 2024-04-16T13:03:30.068
-effective_version = "1.8.4.1"
-[channels.stable.plugins.SubmarineTracker.changelogs]
-[channels.stable.plugins.GatherBuddy]
-built_commit = "757f0a3bbdf81bc7b952bf10a2201a3bb0535fc0"
-time_built = 2024-04-16T13:01:10.431
-effective_version = "3.3.2.3"
-[channels.stable.plugins.GatherBuddy.changelogs."3.3.2.3"]
-time_released = 2024-04-15T09:32:13.769
-changelog = "Update for KR"
-[channels.stable.plugins.EngageTimer]
-built_commit = "f5bfa07a4ca0be31623ad687926124a50251d019"
-time_built = 2024-04-16T08:04:16.639
-effective_version = "2.3.2.0"
-[channels.stable.plugins.EngageTimer.changelogs."2.3.2.0"]
-time_released = 2024-04-16T08:04:16.639
-changelog = "- Add an option to draw the custom 0-5 numbers without hiding the original countdown\n- Make animation match vanilla a bit better\n"
-[channels.stable.plugins.FantasyPlayer]
-built_commit = "d08a6911953037f7fefe3d113993d2da54b9627f"
-time_built = 2024-04-16T08:04:27.709
-effective_version = "2.2.0.2"
-[channels.stable.plugins.FantasyPlayer.changelogs."2.2.0.2"]
-time_released = 2024-04-16T08:04:27.709
-changelog = "**Bug Fixes**\n- Fixes so that the plugin disposes properly\n- The browser should now open using the same method Dalamud uses for logging in, Linux/Mac OSX users see if you can login now\n"
-[channels.stable.plugins.Browsingway]
-built_commit = "45b2380ff73264ac5aa655448db95cb528e45858"
-time_built = 2024-04-17T02:58:29.418
-effective_version = "1.6.0"
-[channels.stable.plugins.Browsingway.changelogs."1.6.0"]
-time_released = 2024-04-17T02:58:29.418
-changelog = "- Chromium 122.0.6261.112\n- Option to hide overlays out of combat (by electr0sheep)\n- .net 8 support\n- IPC refactoring\n"
-[channels.stable.plugins.DeviceChangeFix]
-built_commit = "4c468b79156bd21ca147130410f90cc891a95ddd"
-time_built = 2024-04-15T13:55:09.136
-effective_version = "2.0.3.0"
-[channels.stable.plugins.DeviceChangeFix.changelogs."2.0.3.0"]
-time_released = 2024-04-15T13:55:09.136
-changelog = "Update for KR"
-[channels.stable.plugins.EnmityHp]
-built_commit = "2c495026819e3411069eb94b0ed0dd2a3a58eae5"
-time_built = 2024-04-16T08:04:36.570
-effective_version = "2.0.1.1"
-[channels.stable.plugins.EnmityHp.changelogs]
 [channels.stable.plugins.Globetrotter]
 built_commit = "f322aa985227e10cde6e2ad6f4728cc917ba74c3"
 time_built = 2024-04-23T07:06:56.777
@@ -371,6 +371,11 @@ effective_version = "1.2.10"
 [channels.stable.plugins.Globetrotter.changelogs."1.2.10"]
 time_released = 2024-04-23T07:06:56.777
 changelog = "API 9"
+[channels.stable.plugins.ChatTwo]
+built_commit = "cdd9277ff0f752ee1956bda26afb6beafd66917b"
+time_built = 2024-04-23T07:18:02.154
+effective_version = "1.22.1.0"
+[channels.stable.plugins.ChatTwo.changelogs]
 [channels.testing-live.plugins.AetherCompass]
 built_commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
 time_built = 2023-01-18T16:19:10.716
